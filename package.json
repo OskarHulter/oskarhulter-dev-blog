@@ -23,6 +23,7 @@
     "@anatine/zod-mock": "^3.8.4",
     "@astrojs/rss": "^2.1.1",
     "@faker-js/faker": "^7.6.0",
+    "@markdoc/markdoc": "^0.2.2",
     "astro": "^2.0.15",
     "astro-compress": "^1.1.34",
     "fuse.js": "^6.6.2",
