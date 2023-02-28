@@ -16,13 +16,23 @@ description:
 
 ## Welcome
 
-I'm excited to announce the launch of my new blog. I hope you find it useful, informative and inspiring. In this post I'll tell you a bit about why I started this blog, what's changed since then and how to get involved with it if you want to.
+I'm excited to announce the launch of my new blog about software development.
+I plan to feature 
+
+- tutorials & explainations
+- reviews of packages & services
+- my pick of the best dev resources
+- spicy takes on the latest trends
+- learning optimization tips
+- stress reduction techniques
 
 Whether you are an experienced developer or just getting started,
 this blog will provide valuable insights into the why and how of common code
 patterns.
 
 ## Why create a blog?
+
+In this post I'll tell you a bit about why I started this blog.
 
 You're probably wondering, "Does the world need another blog?"
 
@@ -76,27 +86,6 @@ by the poem:
 
 Is it a statement on the creative demands of the hacker ethos? It's only fitting
 that a 0-day vulnrability requires an empty mind.
-
-> “When you listen to someone, you should give up all your preconceived ideas and
-> your subjective opinions; you should just listen to him, just observe what his
-> way is. We put very little emphasis on right and wrong or good and bad. We just
-> see things as they are with him, and accept them. This is how we communicate
-> with each other. Usually, when you listen to some statement, you hear it as a
-> kind of echo of yourself. You are actually listening to your own opinion. If it
-> agrees with your opinion you may accept it, but if it does not, you will reject
-> it or you may not even really hear it.”
-
-―
-**Shunryu Suzuki,**
-
-**[Zen Mind, Beginner's Mind: Informal Talks on Zen Meditation and Practice](https://www.goodreads.com/work/quotes/231282)**
-
-This is sage advice for developers who enjoy a lively discussion (crusade) on code opinions.
-If you're not willing to understand the other side of the argument, then I would
-consider procrastinating your work in a more productive manner. Memeaholics
-trollanonymous is already operating at capacity, unfortunately.
-
-if you want to maximize your growth.
 
  My current obsession is levraging runtime type safety to maximize security, maintainability and velocity.
 
