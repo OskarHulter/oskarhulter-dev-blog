@@ -13,7 +13,7 @@ jobs:
     - uses: actions/setup-node@v3
       with:
         node-version: 18
-    - name: Install pnpm
+    - name: Install pnpm globally
       run: npm install -g pnpm
     - name: Install dependencies
       run: pnpm install
