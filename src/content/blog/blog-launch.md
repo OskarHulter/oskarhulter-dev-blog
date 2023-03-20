@@ -17,17 +17,23 @@ description:
 ## Welcome
 
 I'm excited to announce the launch of my new blog about software development.
-The blog will mostly be about the Javascript ecosystem but I'll experiment with
-the along the way. This post starts by outlining the content topics and proceeds
+The blog will focus on the Javascript ecosystem. Over time I will include
+other interests of mine through the lens of general problem solving. I think the
+value of creative problem solving will increase with the rise of AI. That is why I want to
+inspire others to explore similar concepts relating to their interests. A
+tagging system will be used to enable filtering. This post starts by outlining the content topics and proceeds
 by summarizing my guiding principles. Hopefully this gives you a better idea of what to expect going forward.
 
 ## Content plan
+
+The coverage will focus on the following areas.
 
 - Short tutorials
 - Summaries of technical trade-offs
 - NPM package reviews
 - Best developer resources
-- Coverage of emerging trends
+- Coverage of emerging trends like AI
+- Creative problem solving
 
 ## Disclaimer
 
