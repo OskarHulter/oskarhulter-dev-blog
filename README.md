@@ -4,13 +4,20 @@
 
 [https://oskarhulter.com](https://oskarhulter.com)
 
-## 🚀 Project Structure
+## Project Structure
 
 Astro looks for `.astro` or `.md` files in the `src/pages/` directory. Each page is exposed as a route based on its file name.
 
 Any static assets, like images, can be placed in the `public/` directory.
 
 All blog posts are stored in `src/content/blog` directory.
+
+## 🚀 Getting started
+
+- Install the package manager - `npm install -g pnpm`
+- Install the dependencies - `pnpm i`
+- Build the site - `pnpm build`
+- Now you are ready to get started - `pnpm run dev`
 
 ## 🧞 Commands
 
@@ -34,4 +41,3 @@ Licensed under the MIT License, Copyright © 2023
 ---
 
 Based on the awesome paper template by [Sat Naing](https://satnaing.dev) 🙏
-
