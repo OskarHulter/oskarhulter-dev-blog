@@ -1,6 +1,8 @@
-# Oskar Hulter Dev Blog 📄
+# Oskar Hulter Dev Blog 👨🏻‍💻
 
 ![The future is now](https://res.cloudinary.com/dduqjmlr5/image/upload/v1677006718/spaceship-exploring-futuristic-city_topwip.png)
+
+[https://oskarhulter.com](https://oskarhulter.com)
 
 ## 🚀 Project Structure
 
@@ -32,6 +34,4 @@ Licensed under the MIT License, Copyright © 2023
 ---
 
 Based on the awesome paper template by [Sat Naing](https://satnaing.dev) 🙏
-
-Made with 🤍 by [Oskar Hulter](https://oskarhulter.com) 👨🏻‍💻
 
