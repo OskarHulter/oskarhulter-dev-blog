@@ -8,8 +8,7 @@ draft: true
 tags:
   - Domain Driven Development
   - Introduction
-description:
-  'Domain Driven Development, or DDD, is a powerful development tool for complex systems. It simplifies the process of developing applications by focusing on the business rules that drive the system. In this blog post, we’ll explore what DDD is, how it works, and why it can be so helpful for developers.'
+description: 'Domain Driven Development, or DDD, is a powerful development tool for complex systems. It simplifies the process of developing applications by focusing on the business rules that drive the system. In this blog post, we’ll explore what DDD is, how it works, and why it can be so helpful for developers.'
 ---
 
 ## Table of contents
@@ -31,7 +30,7 @@ manage because it is based on the core business logic of the application.
 For example, the most popular architecture patterns are clean, onion and
 hexagonal. These patterns are widely used by developers because it helps keep
 code clean and organized by separating different components into distinct
-sections. On my blog, I will explain the concepts behind these patterns  and provide examples
+sections. On my blog, I will explain the concepts behind these patterns and provide examples
 of how it can be implemented in various languages and use cases.
 
 Another powerful code pattern is dependency injection (DI). This pattern allows

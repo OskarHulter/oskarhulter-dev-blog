@@ -8,8 +8,7 @@ draft: true
 tags:
   - Domain Driven Development
   - TypeScript
-description:
-  Domain Driven Development, or DDD, is a powerful development tool for complex systems. It simplifies the process of developing applications by focusing on the business rules that drive the system. In this blog post, we’ll explore what DDD is, how it works, and why it can be so helpful for developers.
+description: Domain Driven Development, or DDD, is a powerful development tool for complex systems. It simplifies the process of developing applications by focusing on the business rules that drive the system. In this blog post, we’ll explore what DDD is, how it works, and why it can be so helpful for developers.
 ---
 
 ## Table of contents
@@ -32,7 +31,7 @@ Finally, typescript provides strong static typing which enables developers to de
 
 ## How To Implement Domain Modelling With Typescript
 
-The first step in implementing domain modelling with typescript is defining the data types that you need for your application. You can use features such as generics, decorators or even custom type guards to enforce the rules of the domain. The  types serve a similar purpose to unit tests, but they give quicker feedback and superior developer experience in modern ides like VSCode.
+The first step in implementing domain modelling with typescript is defining the data types that you need for your application. You can use features such as generics, decorators or even custom type guards to enforce the rules of the domain. The types serve a similar purpose to unit tests, but they give quicker feedback and superior developer experience in modern ides like VSCode.
 
 ## Conclusion
 

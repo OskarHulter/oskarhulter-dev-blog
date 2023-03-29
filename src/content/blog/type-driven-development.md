@@ -8,15 +8,14 @@ draft: true
 tags:
   - TypeScript
   - Test Driven Development
-description:
-  If you’re a web developer, you know how important it is to have code that is well-structured and maintainable. It also needs to be efficient so that your products can quickly load and run correctly. That’s why type driven development has become increasingly popular as an alternative to test driven development (TDD). Let’s explore why this approach may be the better of the two for developing web apps.
+description: If you’re a web developer, you know how important it is to have code that is well-structured and maintainable. It also needs to be efficient so that your products can quickly load and run correctly. That’s why type driven development has become increasingly popular as an alternative to test driven development (TDD). Let’s explore why this approach may be the better of the two for developing web apps.
 ---
 
 ## Table of contents
 
 ## What is Type Driven Development?
 
-Type driven development (TDD) is a programming paradigm focused on structuring programs around types. Types are essentially data structures that define how data should be stored, accessed, and manipulated within a program. In TDD, type information is used to describe how different parts of the program interact with each other in order to ensure that they are properly connected and functioning as expected.  This helps reduce bugs and improves code readability. As a result, developers can focus less on debugging and more on writing clean code that will get the job done efficiently.
+Type driven development (TDD) is a programming paradigm focused on structuring programs around types. Types are essentially data structures that define how data should be stored, accessed, and manipulated within a program. In TDD, type information is used to describe how different parts of the program interact with each other in order to ensure that they are properly connected and functioning as expected. This helps reduce bugs and improves code readability. As a result, developers can focus less on debugging and more on writing clean code that will get the job done efficiently.
 
 ## Benefits of TDD
 

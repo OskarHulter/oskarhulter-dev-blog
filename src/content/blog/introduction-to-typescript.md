@@ -8,8 +8,7 @@ draft: true
 tags:
   - Introduction
   - TypeScript
-description:
-  Typescript may seem like a foreign language, but mastering it isn't as complicated as you think. Learning it is like teaching your five-year-old self how to write JavaScript - if your five-year-old self has the mental capacity of a genius, that is.
+description: Typescript may seem like a foreign language, but mastering it isn't as complicated as you think. Learning it is like teaching your five-year-old self how to write JavaScript - if your five-year-old self has the mental capacity of a genius, that is.
 ---
 
 ## Table of contents
@@ -28,7 +27,7 @@ Hey, I know coding can feel like rocket science, but trust me – understanding 
 
 In the simplest of terms, Typescript is an extension to JavaScript (JS).
 
-At its core, Typescript lets you use your object-oriented programming skills and turn them into clear and concise code – code that you can use both on the server side and the client side. You can even  so mastering this language can help speed up your development process significantly!
+At its core, Typescript lets you use your object-oriented programming skills and turn them into clear and concise code – code that you can use both on the server side and the client side. You can even so mastering this language can help speed up your development process significantly!
 
 ## Why Use Typescript Over Other Languages?
 

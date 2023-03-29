@@ -1,4 +1,3 @@
-
 /* BACKGROUND TRANSITIONS */
 /* Fade */
 .hvr-fade {
@@ -13,8 +12,10 @@
   -webkit-transition-property: color, background-color;
   transition-property: color, background-color;
 }
-.hvr-fade:hover, .hvr-fade:focus, .hvr-fade:active {
-  background-color: #2098D1;
+.hvr-fade:hover,
+.hvr-fade:focus,
+.hvr-fade:active {
+  background-color: #2098d1;
   color: white;
 }
 
@@ -41,7 +42,9 @@
   -webkit-transition-property: color, background-color;
   transition-property: color, background-color;
 }
-.hvr-back-pulse:hover, .hvr-back-pulse:focus, .hvr-back-pulse:active {
+.hvr-back-pulse:hover,
+.hvr-back-pulse:focus,
+.hvr-back-pulse:active {
   -webkit-animation-name: hvr-back-pulse;
   animation-name: hvr-back-pulse;
   -webkit-animation-duration: 1s;
@@ -52,7 +55,7 @@
   animation-timing-function: linear;
   -webkit-animation-iteration-count: infinite;
   animation-iteration-count: infinite;
-  background-color: #2098D1;
+  background-color: #2098d1;
   background-color: #2098d1;
   color: white;
 }

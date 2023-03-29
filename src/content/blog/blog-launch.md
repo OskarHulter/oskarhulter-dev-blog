@@ -7,9 +7,8 @@ featured: false
 draft: false
 tags:
   - Announcement
-description:
-  My new blog is finally launched, let's nerd out together! 👨‍💻 
-  An overview of my plans for the site. 
+description: My new blog is finally launched, let's nerd out together! 👨‍💻
+  An overview of my plans for the site.
 ---
 
 ![Spaceship exploring futuristic planet](https://res.cloudinary.com/dduqjmlr5/image/upload/v1677006718/spaceship-exploring-futuristic-city_topwip.png)
@@ -87,7 +86,6 @@ My new blog provides an in-depth look at some of the most popular tools and pack
 
 I hope this will be valuable for beginners and veterans alike and I look forward
 to learning together.
-
 
 If you have any questions or comments, please feel free to contact me.
 

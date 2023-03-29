@@ -7,9 +7,8 @@ featured: true
 draft: true
 tags:
   - Announcement
-description:
-  My new blog is finally launched, let's nerd out together! 👨‍💻 
-  An overview of my plans for the site. 
+description: My new blog is finally launched, let's nerd out together! 👨‍💻
+  An overview of my plans for the site.
 ---
 
 ![Spaceship exploring futuristic planet](https://res.cloudinary.com/dduqjmlr5/image/upload/v1677006718/spaceship-exploring-futuristic-city_topwip.png)
@@ -38,7 +37,7 @@ The best way to learn something is by doing it, so let's dive in!
 
 Share knowledge! If there are any tips or tricks that you think would be useful for other bloggers out there, share them with us! We'll do our best to give credit where due--and if we get something wrong or miss an opportunity (which happens sometimes), let us know so we can fix it ASAP!
 
- My current obsession is levraging runtime type safety to maximize security, maintainability and velocity.
+My current obsession is levraging runtime type safety to maximize security, maintainability and velocity.
 
 That's why my first multipart series of blog posts is about Zod, a
 TypeScript-first runtime type system for JavaScript. I will review my experience

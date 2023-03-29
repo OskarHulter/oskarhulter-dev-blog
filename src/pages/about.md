@@ -2,6 +2,7 @@
 layout: ../layouts/AboutLayout.astro
 title: 'About'
 ---
+
 Welcome to the blog of Oskar Hulter, a software developer from Sweden.
 The goal of this blog is to learn and teach programming concepts in public.
 
@@ -16,18 +17,17 @@ My experience ranges from startup hacking to enterprise consulting.
 I have a bachelor’s degree in systems science from Luleå Tekniska Universitet.
 Full CV available upon request.
 
-
 ## Pre-launch disclaimer
+
 This site has recently launched and will be progressivley updated and improved
 upon. 🚧
 
 ## Requests & offers
 
-I'm open to consider full time offers. 
+I'm open to consider full time offers.
 I'm available for select freelance opportunities. My initial advice is provided free of charge.
 
 Do you represent a consultancy? Consider me next time you need a freelance JS-specialist.
-
 
 ## What are your favorite technical topics?
 
@@ -45,8 +45,6 @@ I'm currently learning AI, rust, python and the new wave of meta frameworks.
 ## What are your other interests?
 
 My other interests include music, finance, philosophy and psychology.
-
-
 
 <div>
   <img src="/assets/dev.svg" class="sm:w-1/2 mx-auto" alt="coding dev illustration">

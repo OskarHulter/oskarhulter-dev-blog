@@ -8,8 +8,7 @@ draft: true
 tags:
   - Introduction
   - TypeScript
-description:
-  In 2020, the programming language Typescript has become increasingly popular among web developers. According to a report by Stack Overflow, over 50% of professional developers are using Typescript. But what is it about this language that makes it so appealing? Let's dive in and explore why more and more web developers are turning to Typescript for their development needs.
+description: In 2020, the programming language Typescript has become increasingly popular among web developers. According to a report by Stack Overflow, over 50% of professional developers are using Typescript. But what is it about this language that makes it so appealing? Let's dive in and explore why more and more web developers are turning to Typescript for their development needs.
 ---
 
 ## Table of contents
@@ -18,7 +17,7 @@ In 2020, the programming language Typescript has become increasingly popular amo
 
 ## What Makes Typescript So Special?
 
-Typescript is an open-source programming language that was created by Microsoft as an extension of JavaScript. It provides additional features such as static type checking, classes, and interfaces that make developing web applications easier and more efficient.  In addition, Typescript offers a range of advantages including better scalability, improved reliability, heightened security, and increased productivity. By utilizing the capabilities of both JavaScript and TypeScript, developers can create powerful applications that can be easily maintained in the long run.
+Typescript is an open-source programming language that was created by Microsoft as an extension of JavaScript. It provides additional features such as static type checking, classes, and interfaces that make developing web applications easier and more efficient. In addition, Typescript offers a range of advantages including better scalability, improved reliability, heightened security, and increased productivity. By utilizing the capabilities of both JavaScript and TypeScript, developers can create powerful applications that can be easily maintained in the long run.
 
 Another reason why Typescript has become so popular is its ability to compile down to plain JavaScript code. This means that developers can utilize all of the benefits offered by TypeScript while still being able to deploy their application on any platform or browser supported by JavaScript. This makes it easier for developers to take advantage of the latest technologies without having to worry about compatibility issues.
 
